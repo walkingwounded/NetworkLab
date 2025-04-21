@@ -58,15 +58,17 @@ Power failure simulated: alert received within 30 seconds
 
 Status alerts (e.g., battery disconnected): received
 
-Note: Run test using APC *Test Email* prior simulating actual power interruption
-
 ## Lessons / Notes
 
-Gmail documentation: https://support.google.com/a/answer/176600?hl=en
+- Gmail documentation: https://support.google.com/a/answer/176600?hl=en
 
-APC documentation: https://www.apc.com/us/en/faqs/FA156064/
+- APC documentation: https://www.apc.com/us/en/faqs/FA156064/
 
-Gmail limits up to 2000 emails a day.
+- Gmail limits up to 2000 emails a day.
+
+- Run test using APC *Test Email* prior simulating actual power interruption.
+
+- SRV1Ke-i UPS does not come with built in LCD to display the NMC default IP address. If IP is not configured (e.g. 0.0.0.0), consider using *Device IP Configuration Wizard* or Telnet to scan and configure NMC IP address.
 
 ## Conclusion
 
