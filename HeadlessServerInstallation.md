@@ -16,9 +16,9 @@ The previous IT vendor was uncooperative, and left behind no documentation.
 
 I had no physical access, and had to work with just:
 
-Server name (hostname)
+- Server name (hostname)
 
-Admin username and password
+- Admin username and password
 
 
 
