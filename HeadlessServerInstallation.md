@@ -5,8 +5,7 @@
 **Objective:** Successfully install the Trend Micro Agent on a Lenovo ThinkSystem ST50 running Windows Server 2019 Standard.
 
 **Summary:**
-Overcame a real-world IT challenge that tested both my practical knowledge and my resourcefulness. Successfully remotely installed the Trend Micro Agent on a headless server (i.e., no monitor attached), with minimal information provided—only the server hostname and administrator credentials.
-
+Overcame a real-world IT challenge that tested both practical knowledge and resourcefulness. Successfully remotely installed the Trend Micro Agent on a headless server (i.e., no monitor attached), with minimal information provided—only the server hostname and administrator credentials.
 
 
 **Challenge:**
